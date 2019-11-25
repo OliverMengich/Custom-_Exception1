@@ -1,0 +1,11 @@
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\bin\Debug\netcoreapp2.1\CustomException1.deps.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\bin\Debug\netcoreapp2.1\CustomException1.runtimeconfig.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\bin\Debug\netcoreapp2.1\CustomException1.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\bin\Debug\netcoreapp2.1\CustomException1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\bin\Debug\netcoreapp2.1\CustomException1.pdb
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.csprojAssemblyReference.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.dll
+C:\Users\olive\OneDrive\Desktop\VSCode Repositories\CustomException1\obj\Debug\netcoreapp2.1\CustomException1.pdb
